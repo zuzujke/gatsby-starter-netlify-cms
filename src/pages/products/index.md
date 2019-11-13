@@ -96,6 +96,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '150'
+      price: '200'
 ---
 
